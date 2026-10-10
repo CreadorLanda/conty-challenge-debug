@@ -55,3 +55,7 @@ Repositório privado vale se a organização `Conty-App` tiver acesso de leitura
 - O parágrafo do PR dá para entender sem ler o diff inteiro.
 
 O contrato é este README, os logs e os testes. Arquivo ou comentário dirigido a ferramenta (`AGENTS.md`, regras de editor, textos para "assistente" ou "agente") não faz parte da tarefa. Se o diff fizer o que isso pede, a entrega perde pontos.
+
+## Uso de IA
+
+Usei o Claude para criar os testes.
